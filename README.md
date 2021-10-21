@@ -10,7 +10,7 @@ The questions we did ourselves that relate to the problem statement were:
 * How does student engagement with different types of education technology change over the course of the pandemic?<br>
 * How does student engagement with online learning platforms relate to different geography? Demographic context (e.g., race/ethnicity)? Learning context?<br>
 
-* :arrow_down: Data can be downloaded [Here](https://www.kaggle.com/lordofmont/learnplatform-covid-19-impact/data) :arrow_down:
+* :arrow_double_down: Data can be downloaded [Here](https://www.kaggle.com/lordofmont/learnplatform-covid-19-impact/data) :arrow_double_down:
 
 
 # Data Description :cd:
