@@ -1,23 +1,23 @@
-# LearnPlatform_COVID_19_Impact_on_Digital_Learning
+# LearnPlatform_COVID_19_Impact_on_Digital_Learning :mortar_board:
 
-# Project Description
+# Project Description :globe_with_meridians:
 We include the analysis notebook of the [COVID_19_Impact_on_Digital_Learning competition](https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning). The Challenge consisted of exploring (1) the state of digital learning in 2020 and (2) how the engagement of digital learning relates to factors such as district demographics, broadband access, and state/national level policies and events.
 
 The questions we did ourselves that relate to the problem statement were:
 
-What is the picture of digital connectivity and engagement in 2020?<br>
-What is the effect of the COVID-19 pandemic on online and distance learning, and how might this also evolve in the future?<br>
-How does student engagement with different types of education technology change over the course of the pandemic?<br>
-How does student engagement with online learning platforms relate to different geography? Demographic context (e.g., race/ethnicity)? Learning context?<br>
+* What is the picture of digital connectivity and engagement in 2020?<br>
+* What is the effect of the COVID-19 pandemic on online and distance learning, and how might this also evolve in the future?<br>
+* How does student engagement with different types of education technology change over the course of the pandemic?<br>
+* How does student engagement with online learning platforms relate to different geography? Demographic context (e.g., race/ethnicity)? Learning context?<br>
 
 * Data can be downloaded [Here](https://www.kaggle.com/lordofmont/learnplatform-covid-19-impact/data)
 
 
-# Data Description
+# Data Description :cd:
 
 The engagement data are based on [LearnPlatform](https://learnplatform.com/)’s Student Chrome Extension. The extension collects page load events of over 10K education technology products in our product library, including websites, apps, web apps, software programs, extensions, ebooks, hardwares, and services used in educational institutions. The engagement data have been aggregated at school district level, and each file represents data from one school district. The product file includes information about the characteristics of the top 372 products with most users in 2020. The district file includes information about the characteristics of school districts, including data from [National Center for Education Statistics (NCES)](https://nces.ed.gov/), [The Federal Communications Commission (FCC)](https://www.fcc.gov/), and [Edunomics Lab](https://edunomicslab.org/). In addition to the files provided, we encourage you to use other public data sources such as examples listed below.
 
-## File Structure
+## File Structure :open_file_folder:
 
 The organization of data sets is described below:
 
@@ -33,7 +33,7 @@ Root/
 
 ```
 
-## Data Definition
+## Data Definition :clipboard:
 
 
 ### Engagement data
