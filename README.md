@@ -1,6 +1,8 @@
 # LearnPlatform_COVID_19_Impact_on_Digital_Learning :mortar_board:
 
 # Project Description :globe_with_meridians:
+
+# Our Approach :rocket:
 We include the analysis notebook of the [COVID_19_Impact_on_Digital_Learning competition](https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning). The Challenge consisted of exploring (1) the state of digital learning in 2020 and (2) how the engagement of digital learning relates to factors such as district demographics, broadband access, and state/national level policies and events.
 
 The questions we did ourselves that relate to the problem statement were:
